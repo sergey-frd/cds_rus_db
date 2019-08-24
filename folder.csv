@@ -1,0 +1,399 @@
+option_code,name,base_local,n_level,level
+Akademicheskij,186107615, Akademicheskij, Jugo-Zapadnyj AO,3,»»
+
+Alekseevskij,186145015, Alekseevskij, Severo-Vostochnyj AO,3,»»
+
+Altajskij kraj,435072815,Altajskij kraj,Altajskij kraj,2,»
+
+Altuf'evskij,186108215, Altuf'evskij, Severo-Vostochnyj AO,3,»»
+
+Aeroport,186143415, Aeroport, Severnyj AO,3,»»
+
+Balashiha,186185415, Balashiha, Balashiha,2,»
+
+Barnaul,435073015, Barnaul, Barnaul,2,»
+
+Basmannyj,186125215, Basmannyj, Tsentral'nyj AO,3,»»
+
+Bashkortostan,35467215,Bashkortostan,Bashkortostan,1,
+
+Begovoj,186143015, Begovoj, Severnyj AO,3,»»
+
+Belgorod,68872015, Belgorod, Belgorod,2,»
+
+Belgorodskaja oblast',68868615,Belgorodskaja oblast',Belgorodskaja oblast',2,»
+
+Beskudnikovskij,186139015, Beskudnikovskij, Severnyj AO,3,»»
+
+Birjulevo Zapadnoe,186187415, Birjulevo Zapadnoe, Juzhnyj AO,3,»»
+
+Bogorodskoe,186153815, Bogorodskoe, Vostochnyj AO,3,»»
+
+Bor,51314415, Bor, Bor,2,»
+
+Buzlanovo,186185615, Buzlanovo, Buzlanovo,2,»
+
+Butyrskij,186111415, Butyrskij, Severo-Vostochnyj AO,3,»»
+
+Vladivostok,34625215, Vladivostok, Vladivostok,2,»
+
+Vladimir,174532015, Vladimir, Vladimir,2,»
+
+Vladimirskaja oblast',174531815,Vladimirskaja oblast',Vladimirskaja oblast',2,»
+
+Vojkovskij,186153415, Vojkovskij, Severnyj AO,3,»»
+
+Volgograd,30020215, Volgograd, Volgograd,2,»
+
+Volgogradskaja oblast',30020015,Volgogradskaja oblast',Volgogradskaja oblast',2,»
+
+Volzhskij,30020415, Volzhskij, Volzhskij,2,»
+
+Voronezh,523363841, Voronezh, Voronezh,2,»
+
+Voronezhskaja oblast',523363641,Voronezhskaja oblast',Voronezhskaja oblast',2,»
+
+Vostochnyj AO,186532815, Vostochnyj AO, Vostochnyj AO,2,»
+
+Vse,,Vse,Vse,1,
+
+Vyhino-Zhulebino,186148615, Vyhino-Zhulebino, Jugo-Vostochnyj AO,3,»»
+
+Gagarinskij,186144215, Gagarinskij, Jugo-Zapadnyj AO,3,»»
+
+Golovinskij,186143615, Golovinskij, Severnyj AO,3,»»
+
+Gol'janovo,186150815, Gol'janovo, Vostochnyj AO,3,»»
+
+Gubkinskij,190971615, Gubkinskij, Gubkinskij,2,»
+
+Danilovskij,186108615, Danilovskij, Juzhnyj AO,3,»»
+
+Dmitrovskij,186126215, Dmitrovskij, Severnyj AO,3,»»
+
+Donskoj,186111815, Donskoj, Juzhnyj AO,3,»»
+
+Dorogomilovo,186142615, Dorogomilovo, Zapadnyj AO,3,»»
+
+Ekaterinburg,504951441, Ekaterinburg, Ekaterinburg,2,»
+
+Zhukovka,186539215, Zhukovka, Zhukovka,2,»
+
+Zhukovskij,190877815, Zhukovskij, Zhukovskij,2,»
+
+Zapadnyj AO,186534215, Zapadnyj AO, Zapadnyj AO,2,»
+
+Zarechnyj,35224015, Zarechnyj, Zarechnyj,2,»
+
+Zlatoust,193612815, Zlatoust, Zlatoust,2,»
+
+Ivanovo,70284015, Ivanovo, Ivanovo,2,»
+
+Ivanovskaja oblast',70283815,Ivanovskaja oblast',Ivanovskaja oblast',2,»
+
+Ivanteevka,190877615, Ivanteevka, Ivanteevka,2,»
+
+Izmajlovo,186153615, Izmajlovo, Vostochnyj AO,3,»»
+
+Izmajlovo Severnoe,186152815, Izmajlovo Severnoe, Vostochnyj AO,3,»»
+
+Kazan',72830015, Kazan', Kazan',2,»
+
+Kaliningrad,71252415, Kaliningrad, Kaliningrad,2,»
+
+Kaliningradskaja oblast',71250215,Kaliningradskaja oblast',Kaliningradskaja oblast',2,»
+
+Kirov,190021815, Kirov, Kirov,2,»
+
+Kirovskaja oblast',190019615,Kirovskaja oblast',Kirovskaja oblast',2,»
+
+Kogalym,517083441, Kogalym, Kogalym,2,»
+
+Kolomna,190878015, Kolomna, Kolomna,2,»
+
+Kon'kovo,186147815, Kon'kovo, Jugo-Zapadnyj AO,3,»»
+
+Koptevo,186154215, Koptevo, Severnyj AO,3,»»
+
+Kotel'niki,186168015, Kotel'niki, Kotel'niki,2,»
+
+Krasnogorsk,186187015, Krasnogorsk, Krasnogorsk,2,»
+
+Krasnodar,64234615, Krasnodar, Krasnodar,2,»
+
+Krasnodarskij kraj,64234415,Krasnodarskij kraj,Krasnodarskij kraj,2,»
+
+Krasnosel'skij,186148815, Krasnosel'skij, Tsentral'nyj AO,3,»»
+
+Krasnojarsk,69072615, Krasnojarsk, Krasnojarsk,2,»
+
+Krasnojarskij kraj,69071015,Krasnojarskij kraj,Krasnojarskij kraj,2,»
+
+Krylatskoe,186148415, Krylatskoe, Zapadnyj AO,3,»»
+
+Kulebaki,29609015, Kulebaki, Kulebaki,2,»
+
+Kuntsevo,186148215, Kuntsevo, Zapadnyj AO,3,»»
+
+Kurgan,403273415, Kurgan, Kurgan,2,»
+
+Kurganskaja Oblast',402477015,Kurganskaja Oblast',Kurganskaja Oblast',2,»
+
+Langepas,517083041, Langepas, Langepas,2,»
+
+Levoberezhnyj,186143215, Levoberezhnyj, Severnyj AO,3,»»
+
+Lesnoj,190886215, Lesnoj, Lesnoj,2,»
+
+Lefortovo,186167415, Lefortovo, Jugo-Vostochnyj AO,3,»»
+
+Lobnja,186186215, Lobnja, Lobnja,2,»
+
+Lomonosovskij,186114815, Lomonosovskij, Jugo-Zapadnyj AO,3,»»
+
+Ljubertsy,190878415, Ljubertsy, Ljubertsy,2,»
+
+Ljublino,186144415, Ljublino, Jugo-Vostochnyj AO,3,»»
+
+Magnitogorsk,193613015, Magnitogorsk, Magnitogorsk,2,»
+
+Marfino,186167615, Marfino, Severo-Vostochnyj AO,3,»»
+
+Mar'ina roscha,186150015, Mar'ina roscha, Severo-Vostochnyj AO,3,»»
+
+Mar'ino,186109215, Mar'ino, Jugo-Vostochnyj AO,3,»»
+
+Medvedkovo Severnoe,186147415, Medvedkovo Severnoe, Severo-Vostochnyj AO,3,»»
+
+Meschanskij,186145215, Meschanskij, Tsentral'nyj AO,3,»»
+
+Mozhajskij,186152415, Mozhajskij, Zapadnyj AO,3,»»
+
+Moskva,183255615,Moskva,Moskva,1,
+
+Moskvorech'e-Saburovo,186141615, Moskvorech'e-Saburovo, Juzhnyj AO,3,»»
+
+Moskovskaja oblast',70818215,Moskovskaja oblast',Moskovskaja oblast',2,»
+
+Mytischi,186181615, Mytischi, Mytischi,2,»
+
+Nagatino-Sadovniki,186141815, Nagatino-Sadovniki, Juzhnyj AO,3,»»
+
+Nagatinskij zaton,186108415, Nagatinskij zaton, Juzhnyj AO,3,»»
+
+Nagornyj,186184415, Nagornyj, Juzhnyj AO,3,»»
+
+Nadym,193112615, Nadym, Nadym,2,»
+
+Nizhegorodskaja oblast',517461241,Nizhegorodskaja oblast',Nizhegorodskaja oblast',2,»
+
+Nizhegorodskij,186122815, Nizhegorodskij, Jugo-Vostochnyj AO,3,»»
+
+Nizhnevartovsk,487372441, Nizhnevartovsk, Nizhnevartovsk,2,»
+
+Nizhnij Novgorod,517467441, Nizhnij Novgorod, Nizhnij Novgorod,2,»
+
+Novo-Peredelkino,186109615, Novo-Peredelkino, Zapadnyj AO,3,»»
+
+Novogireevo,186141415, Novogireevo, Vostochnyj AO,3,»»
+
+Novoivanovskoe,190877015, Novoivanovskoe, Novoivanovskoe,2,»
+
+Novosibirsk,31214615, Novosibirsk, Novosibirsk,2,»
+
+Novosibirskaja oblast',31214415,Novosibirskaja oblast',Novosibirskaja oblast',2,»
+
+Novyj Urengoj,487372641, Novyj Urengoj, Novyj Urengoj,2,»
+
+Nojabr'sk,487073241, Nojabr'sk, Nojabr'sk,2,»
+
+Njagan',515241841, Njagan', Njagan',2,»
+
+Obruchevskij,186148015, Obruchevskij, Jugo-Zapadnyj AO,3,»»
+
+Omsk,30170415, Omsk, Omsk,2,»
+
+Omskaja oblast',30170215,Omskaja oblast',Omskaja oblast',2,»
+
+Orehovo-Borisovo Juzhnoe,186151815, Orehovo-Borisovo Juzhnoe, Juzhnyj AO,3,»»
+
+Ostankinskij,186142415, Ostankinskij, Severo-Vostochnyj AO,3,»»
+
+Otradnoe,186107815, Otradnoe, Severo-Vostochnyj AO,3,»»
+
+Ochakovo-Matveevskoe,186147215, Ochakovo-Matveevskoe, Zapadnyj AO,3,»»
+
+Pavlovo,29563215, Pavlovo, Pavlovo,2,»
+
+Pervomajsk,29609415, Pervomajsk, Pervomajsk,2,»
+
+Permskij kraj,464758815,Permskij kraj,Permskij kraj,2,»
+
+Perm',464759015, Perm', Perm',2,»
+
+Perovo,186141215, Perovo, Vostochnyj AO,3,»»
+
+Pechatniki,186154415, Pechatniki, Jugo-Vostochnyj AO,3,»»
+
+Podol'sk,70818615, Podol'sk, Podol'sk,2,»
+
+Pokrovskoe-Streshnevo,186124615, Pokrovskoe-Streshnevo, Severo-Zapadnyj AO,3,»»
+
+Pravdinskij,190886615, Pravdinskij, Pravdinskij,2,»
+
+Preobrazhenskoe,186150615, Preobrazhenskoe, Vostochnyj AO,3,»»
+
+Presnenskij,186141015, Presnenskij, Tsentral'nyj AO,3,»»
+
+Primorskij kraj,34625015,Primorskij kraj,Primorskij kraj,2,»
+
+Prospekt Vernadskogo,186115415, Prospekt Vernadskogo, Zapadnyj AO,3,»»
+
+Putilkovo,186186815, Putilkovo, Putilkovo,2,»
+
+Pushkino,186153015, Pushkino, Pushkino,2,»
+
+Razdory,186541015, Razdory, Razdory,2,»
+
+Ramenki,186113615, Ramenki, Zapadnyj AO,3,»»
+
+Respublika Mordovija,71557615,Respublika Mordovija,Respublika Mordovija,2,»
+
+Respublika Tatarstan,72829815,Respublika Tatarstan,Respublika Tatarstan,2,»
+
+Rostov-na-Donu,28093615, Rostov-na-Donu, Rostov-na-Donu,2,»
+
+Rostovskaja oblast',28093415,Rostovskaja oblast',Rostovskaja oblast',2,»
+
+Rostokino,186144815, Rostokino, Severo-Vostochnyj AO,3,»»
+
+Rjazanskij,186152615, Rjazanskij, Jugo-Vostochnyj AO,3,»»
+
+Savelovskij,186150215, Savelovskij, Severnyj AO,3,»»
+
+Salehard,487371841, Salehard, Salehard,2,»
+
+Samara,28494215, Samara, Samara,2,»
+
+Samarskaja oblast',28494015,Samarskaja oblast',Samarskaja oblast',2,»
+
+Sankt Peterburg,64235015,Sankt Peterburg,Sankt Peterburg,2,»
+
+Saransk,71558215, Saransk, Saransk,2,»
+
+Saratov,348527015, Saratov, Saratov,2,»
+
+Saratovskaja oblast',348526615,Saratovskaja oblast',Saratovskaja oblast',2,»
+
+Sverdlovskaja oblast',504950641,Sverdlovskaja oblast',Sverdlovskaja oblast',2,»
+
+Sviblovo,186167815, Sviblovo, Severo-Vostochnyj AO,3,»»
+
+Severnyj AO,186532215, Severnyj AO, Severnyj AO,2,»
+
+Severo-Vostochnyj AO,186532615, Severo-Vostochnyj AO, Severo-Vostochnyj AO,2,»
+
+Severo-Zapadnyj AO,186534815, Severo-Zapadnyj AO, Severo-Zapadnyj AO,2,»
+
+Smolensk,70386215, Smolensk, Smolensk,2,»
+
+Smolenskaja oblast',70385815,Smolenskaja oblast',Smolenskaja oblast',2,»
+
+Sokol,186153215, Sokol, Severnyj AO,3,»»
+
+Sokolinaja Gora,186149215, Sokolinaja Gora, Vostochnyj AO,3,»»
+
+Solnechnogorsk,186186415, Solnechnogorsk, Solnechnogorsk,2,»
+
+Solntsevo,186109415, Solntsevo, Zapadnyj AO,3,»»
+
+Sochi,70597815, Sochi, Sochi,2,»
+
+Strogino,186149815, Strogino, Severo-Zapadnyj AO,3,»»
+
+Stupino,190887415, Stupino, Stupino,2,»
+
+Surgut,466103841, Surgut, Surgut,2,»
+
+Taganrog,69269415, Taganrog, Taganrog,2,»
+
+Taganskij,186124015, Taganskij, Tsentral'nyj AO,3,»»
+
+Tverskaja oblast',409022615,Tverskaja oblast',Tverskaja oblast',2,»
+
+Tverskoj,186146815, Tverskoj, Tsentral'nyj AO,3,»»
+
+Tver',409022815, Tver', Tver',2,»
+
+Tekstil'schiki,186123615, Tekstil'schiki, Jugo-Vostochnyj AO,3,»»
+
+Teplyj Stan,186144015, Teplyj Stan, Jugo-Zapadnyj AO,3,»»
+
+Timirjazevskij,186125615, Timirjazevskij, Severnyj AO,3,»»
+
+Tobol'sk,462692641, Tobol'sk, Tobol'sk,2,»
+
+Troparevo-Nikulino,186145415, Troparevo-Nikulino, Zapadnyj AO,3,»»
+
+Tushino Juzhnoe,186149015, Tushino Juzhnoe, Severo-Zapadnyj AO,3,»»
+
+Tjumenskaja oblast',461332041,Tjumenskaja oblast',Tjumenskaja oblast',2,»
+
+Tjumen',462344841, Tjumen', Tjumen',2,»
+
+Uraj,517083241, Uraj, Uraj,2,»
+
+Urjupinsk,30020615, Urjupinsk, Urjupinsk,2,»
+
+Ufa,35467415, Ufa, Ufa,2,»
+
+Fili-Davydkovo,186142815, Fili-Davydkovo, Zapadnyj AO,3,»»
+
+Habarovsk,33593615, Habarovsk, Habarovsk,2,»
+
+Habarovskij kraj,33593415,Habarovskij kraj,Habarovskij kraj,2,»
+
+Hamovniki,186142215, Hamovniki, Tsentral'nyj AO,3,»»
+
+Hanty-Mansijsk,466184241, Hanty-Mansijsk, Hanty-Mansijsk,2,»
+
+Himki,186185815, Himki, Himki,2,»
+
+Horoshevo-Mnevniki,186139415, Horoshevo-Mnevniki, Severo-Zapadnyj AO,3,»»
+
+Horoshevskij,186150415, Horoshevskij, Severnyj AO,3,»»
+
+Tsaritsyno,186109015, Tsaritsyno, Juzhnyj AO,3,»»
+
+Tsentral'nyj AO,186531615, Tsentral'nyj AO, Tsentral'nyj AO,2,»
+
+Cheboksary,68039415, Cheboksary, Cheboksary,2,»
+
+Cheljabinsk,489826241, Cheljabinsk, Cheljabinsk,2,»
+
+Cheljabinskaja oblast',487372841,Cheljabinskaja oblast',Cheljabinskaja oblast',2,»
+
+Cheremushki,186145615, Cheremushki, Jugo-Zapadnyj AO,3,»»
+
+Chuvashskaja Respublika,68039215,Chuvashskaja Respublika,Chuvashskaja Respublika,2,»
+
+Schelkovo,190877415, Schelkovo, Schelkovo,2,»
+
+Schukino,186147015, Schukino, Severo-Zapadnyj AO,3,»»
+
+Engel's,348526815, Engel's, Engel's,2,»
+
+Jugo-Vostochnyj AO,186533015, Jugo-Vostochnyj AO, Jugo-Vostochnyj AO,2,»
+
+Jugo-Zapadnyj AO,186533615, Jugo-Zapadnyj AO, Jugo-Zapadnyj AO,2,»
+
+Juzhnoportovyj,186115615, Juzhnoportovyj, Jugo-Vostochnyj AO,3,»»
+
+Juzhnyj AO,186533215, Juzhnyj AO, Juzhnyj AO,2,»
+
+Jurlovo,186186615, Jurlovo, Jurlovo,2,»
+
+Jaroslavl',189621615, Jaroslavl', Jaroslavl',2,»
+
+Jaroslavskaja oblast',189621215,Jaroslavskaja oblast',Jaroslavskaja oblast',2,»
+

@@ -1,0 +1,133 @@
+subiekt,plotn,tchel,km2,fo,nn,region
+Abakan,1469.86,165183,112.38,Sibirskij,2,Hakasija
+Al'met'evsk,1272.47,146309,114.98,Privolzhskij,25,Tatarstan
+Angarsk,795.12,233765,294,Sibirskij,29,Irkutskaja oblast'
+Arhangel'sk,1184.42,348716,294.42,Severo-Zapadnyj,49,Arhangel'skaja oblast'
+Astrahan',2494.91,520662,208.69,Juzhnyj,52,Astrahanskaja oblast'
+Barnaul,1973.81,635585,322.01,Sibirskij,73,Altajskij kraj
+Belgorod,2219.34,356426,160.6,Tsentral'nyj,80,Belgorodskaja oblast'
+Belovo,349.92,76752,219.34,Sibirskij,84,Kemerovskaja oblast'
+Bijsk,698.82,203826,291.67,Sibirskij,101,Altajskij kraj
+Birobidzhan,445.27,75419,169.38,Dal'nevostochnyj,104,Evrejskaja AO
+Blagoveschensk,667.97,214397,320.97,Dal'nevostochnyj,109,Amurskaja oblast'
+Bratsk,575.58,246348,428,Sibirskij,131,Irkutskaja oblast'
+Brjansk,2229.47,415640,186.43,Tsentral'nyj,133,Brjanskaja oblast'
+Vladivostok,1787.86,592069,331.16,Dal'nevostochnyj,167,Primorskij kraj
+Vladikavkaz,1072.35,311635,290.61,Severo-Kavkazskij,168,Severnaja Osetija - Alanija
+Vladimir,2541.75,348256,137.014,Tsentral'nyj,169,Vladimirskaja oblast'
+Volgograd,1188.39,1021244,859.353,Juzhnyj,170,Volgogradskaja oblast'
+Volgodonsk,1010.67,170621,168.82,Juzhnyj,171,Rostovskaja oblast'
+Volzhskij,1372.36,314436,229.12,Juzhnyj,174,Volgogradskaja oblast'
+Vologda,2606.43,301642,115.73,Severo-Zapadnyj,175,Vologodskaja oblast'
+Voronezh,1491.48,889680,596.51,Tsentral'nyj,183,Voronezhskaja oblast'
+Votkinsk,891.73,100034,112.18,Privolzhskij,186,Udmurtija
+Vyborg,497.45,80013,160.847,Severo-Zapadnyj,189,Leningradskaja oblast'
+Groznyj,837.85,271596,324.16,Severo-Kavkazskij,223,Chechnja
+Dzerzhinsk,571.16,240762,421.53,Privolzhskij,250,Nizhegorodskaja oblast'
+Dimitrovgrad,1178.7,122549,103.97,Privolzhskij,254,Ul'janovskaja oblast'
+Domodedovo,603.52,96123,159.27,Tsentral'nyj,262,Moskovskaja oblast'
+Donetsk,453.92,50085,110.34,Juzhnyj,263,Rostovskaja oblast'
+Ekaterinburg,2943.88,1377738,468,Ural'skij,276,Sverdlovskaja oblast'
+Zheleznogorsk,848.5,95057,112.03,Tsentral'nyj,290,Kurskaja oblast'
+Zlatoust,919.04,174985,190.4,Ural'skij,324,Cheljabinskaja oblast'
+Ivanovo,3916.53,409277,104.5,Tsentral'nyj,331,Ivanovskaja oblast'
+Izhevsk,1990.23,628117,315.6,Privolzhskij,335,Udmurtija
+Irkutsk,2117.27,587225,277.35,Sibirskij,345,Irkutskaja oblast'
+Ishimbaj,640.37,66259,103.47,Privolzhskij,350,Bashkortostan
+Joshkar-Ola,2477.22,248688,100.39,Privolzhskij,351,Marij El
+Kazan',1981.51,1216965,614.16,Privolzhskij,353,Tatarstan
+Kaliningrad,1934.68,431491,223.03,Severo-Zapadnyj,357,Kaliningradskaja oblast'
+Kaluga,1926.45,325185,168.8,Tsentral'nyj,360,Kaluzhskaja oblast'
+Kamensk-Ural'skij,1230.35,174710,142,Ural'skij,365,Sverdlovskaja oblast'
+Kamensk-Shahtinskij,595.7,95306,159.99,Juzhnyj,366,Rostovskaja oblast'
+Kamyshin,1016.56,119924,117.97,Juzhnyj,370,Volgogradskaja oblast'
+Kemerovo,1807.61,532884,294.8,Sibirskij,394,Kemerovskaja oblast'
+Kerch',,,108,,123,
+Kirov,2790.71,473668,169.73,Privolzhskij,411,Kirovskaja oblast'
+Komsomol'sk-na-Amure,811.77,263906,325.10,Dal'nevostochnyj,438,Habarovskij kraj
+Kopejsk,581.32,137604,236.71,Ural'skij,443,Cheljabinskaja oblast'
+Kostroma,1858.94,268617,144.5,Tsentral'nyj,453,Kostromskaja oblast'
+Krasnoarmejsk,151.6,24362,160.7,Privolzhskij,463,Saratovskaja oblast'
+Krasnodar,2195.43,744933,339.31,Juzhnyj,466,Krasnodarskij kraj
+Krasnojarsk,2751.7,973826,353.9,Sibirskij,478,Krasnojarskij kraj
+Kumertau,370.6,62854,169.6,Privolzhskij,495,Bashkortostan
+Kurgan,848.89,333640,393.03,Ural'skij,498,Kurganskaja oblast'
+Kursk,2196.53,414595,188.75,Tsentral'nyj,503,Kurskaja oblast'
+Lesosibirsk,220.74,61146,277.00,Sibirskij,528,Krasnojarskij kraj
+Lipetsk,1539.07,508124,330.15,Tsentral'nyj,531,Lipetskaja oblast'
+Magadan,325.17,95925,295,Dal'nevostochnyj,551,Magadanskaja oblast'
+Magnitogorsk,1040.91,408401,392.35,Ural'skij,553,Cheljabinskaja oblast'
+Mahachkala,1234.68,577990,468.13,Severo-Kavkazskij,570,Dagestan
+Mezhdurechensk,306.7,101995,332.56,Sibirskij,577,Kemerovskaja oblast'
+Moskva,4512.06,11514330,2551.9,Tsentral'nyj,605,Moskva
+Murmansk,1990.06,307664,154.6,Severo-Zapadnyj,609,Murmanskaja oblast'
+Myski,395.85,43029,108.7,Sibirskij,612,Kemerovskaja oblast'
+Naberezhnye Chelny,3187.84,513242,161,Privolzhskij,615,Tatarstan
+Nahodka,1257.44,159695,127,Dal'nevostochnyj,627,Primorskij kraj
+Nevinnomyssk,1178.83,118351,100.397,Severo-Kavkazskij,630,Stavropol'skij kraj
+Neftekamsk,826.87,121757,147.25,Privolzhskij,639,Bashkortostan
+Neftejugansk,801.59,123276,153.79,Ural'skij,641,Hanty-Mansijskij AO - Jugra
+Nizhnevartovsk,928.28,251860,271.319,Ural'skij,643,Hanty-Mansijskij AO - Jugra
+Nizhnekamsk,2018.17,234108,116,Privolzhskij,644,Tatarstan
+Nizhnij Novgorod,3045.23,1250615,410.68,Privolzhskij,648,Nizhegorodskaja oblast'
+Nizhnij Tagil,1212.46,361883,298.47,Ural'skij,649,Sverdlovskaja oblast'
+Novokuznetsk,1291.36,547885,424.27,Sibirskij,666,Kemerovskaja oblast'
+Novosibirsk,2958.38,1498921,506.67,Sibirskij,673,Novosibirskaja oblast'
+Novoul'janovsk,63.2,16032,253.67,Privolzhskij,678,Ul'janovskaja oblast'
+Novocherkassk,1321.24,169039,127.94,Juzhnyj,682,Rostovskaja oblast'
+Novoshahtinsk,804.45,111087,138.09,Juzhnyj,683,Rostovskaja oblast'
+Omsk,2035.63,1154000,566.9,Sibirskij,710,Omskaja oblast'
+Orenburg,2202.04,570329,259,Privolzhskij,715,Orenburgskaja oblast'
+Orsk,383.06,238006,621.33,Privolzhskij,718,Orenburgskaja oblast'
+Orel,2626.89,317854,121,Tsentral'nyj,714,Orlovskaja oblast'
+Penza,1703.02,519592,305.1,Privolzhskij,736,Penzenskaja oblast'
+Perm',1251.35,1000679,799.68,Privolzhskij,742,Permskij kraj
+Petrozavodsk,2332.21,263540,113,Severo-Zapadnyj,747,Karelija
+Petropavlovsk-Kamchatskij,495.74,179526,362.14,Dal'nevostochnyj,748,Kamchatskij kraj
+Prokop'evsk,969.68,210150,216.72,Sibirskij,782,Kemerovskaja oblast'
+Pjatigorsk,1372.77,142397,103.73,Severo-Kavkazskij,795,Stavropol'skij kraj
+Rostov-na-Donu,3132.12,1091544,348.5,Juzhnyj,808,Rostovskaja oblast'
+Rybinsk,1979.6,200771,101.42,Tsentral'nyj,816,Jaroslavskaja oblast'
+Rjazan',2342.32,525062,224.163,Tsentral'nyj,820,Rjazanskaja oblast'
+Salavat,1469.31,156085,106.23,Privolzhskij,822,Bashkortostan
+Samara,2151.72,1164900,541.382,Privolzhskij,826,Samarskaja oblast'
+Sankt-Peterburg,3369.52,4848742,1439.00,Severo-Zapadnyj,827,Sankt-Peterburg
+Saratov,2124.25,836900,393.975,Privolzhskij,830,Saratovskaja oblast'
+Sevastopol',,,183,,71,
+Severodvinsk,1595.43,192265,120.51,Severo-Zapadnyj,847,Arhangel'skaja oblast'
+Sibaj,406.53,62732,154.31,Privolzhskij,865,Bashkortostan
+Simferopol',,,107.41,,124,
+Smolensk,1984.6,326863,164.7,Tsentral'nyj,876,Smolenskaja oblast'
+Solikamsk,583.84,97239,166.55,Privolzhskij,887,Permskij kraj
+Sochi,1941.99,343285,176.77,Juzhnyj,900,Krasnodarskij kraj
+Stavropol',1439.4,398266,276.689,Severo-Kavkazskij,909,Stavropol'skij kraj
+Staryj Oskol,1101.41,221163,200.8,Tsentral'nyj,915,Belgorodskaja oblast'
+Sterlitamak,2519.65,273432,108.52,Privolzhskij,916,Bashkortostan
+Surgut,866.45,306703,353.976,Ural'skij,929,Hanty-Mansijskij AO - Jugra
+Syzran',1527.97,178773,117,Privolzhskij,935,Samarskaja oblast'
+Syktyvkar,1546.09,235006,152,Severo-Zapadnyj,936,Komi
+Tver',2652.25,403726,152.22,Tsentral'nyj,952,Tverskaja oblast'
+Tobol'sk,416.61,99698,239.309,Ural'skij,962,Tjumenskaja oblast'
+Tol'jatti,2285.6,719484,314.79,Privolzhskij,964,Samarskaja oblast'
+Tomsk,1759.56,522940,297.2,Sibirskij,967,Tomskaja oblast'
+Troitsk,565.12,78637,139.15,Ural'skij,974,Cheljabinskaja oblast'
+Tula,3437.1,501129,145.8,Tsentral'nyj,978,Tul'skaja oblast'
+Tjumen',833.46,581758,698,Ural'skij,986,Tjumenskaja oblast'
+Ulan-Ude,1145.32,431922,377.12,Sibirskij,994,Burjatija
+Ul'janovsk,981.28,613793,625.5,Privolzhskij,995,Ul'janovskaja oblast'
+Ussurijsk,913.62,157946,172.88,Dal'nevostochnyj,1006,Primorskij kraj
+Ufa,1517.57,1062300,700,Privolzhskij,1013,Bashkortostan
+Habarovsk,1486.02,577668,388.735,Dal'nevostochnyj,1024,Habarovskij kraj
+Hanty-Mansijsk,235.11,79410,337.76,Ural'skij,1026,Hanty-Mansijskij AO - Jugra
+Himki,1879.54,207125,110.2,Tsentral'nyj,1032,Moskovskaja oblast'
+Chapaevsk,362.54,72689,200.5,Privolzhskij,1041,Samarskaja oblast'
+Cheboksary,4072.08,447929,110,Privolzhskij,1044,Chuvashija
+Cheljabinsk,2253.47,1130273,501.57,Ural'skij,1047,Cheljabinskaja oblast'
+Cherepovets,2582.36,312311,120.94,Severo-Zapadnyj,1051,Vologodskaja oblast'
+Chita,606.67,323964,534,Sibirskij,1060,Zabajkal'skij kraj
+Shadrinsk,447.68,77744,173.66,Ural'skij,1067,Kurganskaja oblast'
+Shahty,1509.63,240152,159.08,Juzhnyj,1072,Rostovskaja oblast'
+Engel's,1782.85,202838,113.772,Privolzhskij,1094,Saratovskaja oblast'
+Juzhno-Sahalinsk,1103.65,181727,164.66,Dal'nevostochnyj,1098,Sahalinskaja oblast'
+Jakutsk,2208.9,269486,122,Dal'nevostochnyj,1107,Jakutija
+Jaroslavl',2874.08,591486,205.8,Tsentral'nyj,1113,Jaroslavskaja oblast'
